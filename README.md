@@ -1,2 +1,2 @@
-# practice-folder
+# practice_folder
 teaching for attainu
